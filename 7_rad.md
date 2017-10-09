@@ -18,9 +18,9 @@ Dziel się kodem
 
 A jak już siedzisz przed tym kompem to podziel się tym co robisz. Obowiązkowo wrzuć kod na Githuba. Nie czekaj, aż zaczniesz pisać kod wart pokazywania. Github to nie tylko dobre archiwum Twoich postępów, ale też namacalny dowód Twojej nauki, którym się będziesz mogła legitymować szukając pierwszej pracy/stażu czy praktyk. Przykłady zadań jakie rozwiązałaś będą znaczyły dużo więcej niż suche deklaracje przerobionych kursów czy posiadanych umiejętności. Pomyśl o spisywaniu notatek z nauki na blogu. A jeżeli nie czujesz się jeszcze gotowa na blogosferę, spisz swoje refleksje i przedstaw je na lokalnym meet-upie. Pomyśl co ty chciałabyś była usłyszeć jak zaczynałaś naukę i podziel się tym z innymi.
 
-Let’s face it - będziesz najsłabszy
+Nie bądż dla siebie taka wymagająca
 
-Nie oczekuj od siebie, że w pierwszej pracy będziesz mógł się jakkolwiek równać z bardziej doświadczonymi osobami, czy kolegami po studiach. Nie wymagaj od siebie, by ich lata nauki i doświadczeń nadrobić w kilka miesięcy. Będziesz najwolniejszy, do tego może najstarszy w zespole, a z najmniejszą wiedzą.  To jest zupełnie w porządku. Na początku będzie ogrom nowych rzeczy do nauczenia, i mnóstwo takich, których nie będziesz rozumiał. A z czasem… będzie tak samo. W programowaniu musisz cały czas uczyć się nowych rozwiązań czy technologii. Z czasem jedynie przyzwyczaisz się do tego, że cały czas czegoś nie wiesz. Praktyka czyni mistrza.
+Nie oczekuj od siebie, że w pierwszej pracy będziesz mogła się jakkolwiek równać z bardziej doświadczonymi osobami, czy kolegami po studiach. Nie wymagaj od siebie, by ich lata nauki i doświadczeń nadrobić w kilka miesięcy. Będziesz najwolniejsza, do tego może najstarsza w zespole, a z najmniejszą wiedzą.  To jest zupełnie w porządku. Na początku będzie ogrom nowych rzeczy do nauczenia, i mnóstwo takich, których nie będziesz rozumiała. A z czasem… będzie tak samo. W programowaniu musisz cały czas uczyć się nowych rozwiązań czy technologii. Z czasem jedynie przyzwyczaisz się do tego, że cały czas czegoś nie wiesz. Praktyka czyni mistrza.
 
 Proś o to czego potrzebujesz
 
