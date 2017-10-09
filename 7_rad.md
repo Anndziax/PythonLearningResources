@@ -1,19 +1,5 @@
 Jak zostać programistką i nie zwariować: 7 rad
 
-NAUKA
-Znajdź sposób, który działa dla Ciebie
-Pokochaj błędy
-SZUKANIE PRACY
-Wyjdź do ludzi
-Dziel się kodem
-PIERWSZA PRACA
-Let’s face it - będziesz najsłabsza
-Proś o to czego potrzebujesz
-NA ŻYCIE
-Czy Ty się do tego nadajesz?
-
-Wstęp
-
 Rok temu napisałam pierwszą linijkę kodu. Wczoraj w pracy prezentowałam pierwszy projekt jaki współtworzyłam jako programistka. Właśnie minęły trzy miesiące odkąd zaczęłam praktyki w zespole IT. Założenie tej prezentacji jest proste. Chciałabym się z Wami podzielić 7 radami, jakie wyciągnęłam z mojego dotychczasowego doświadczenia. 2 z nich dotyczą nauki, 2 poszukiwania pracy, 2 pierwszej pracy, a ostatnia jest radą na życie.
 
 Znajdź sposób, który działa dla Ciebie
